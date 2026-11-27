@@ -7,3 +7,4 @@ Waking 23, night: still at the beds near 418,107,-1051. Hunger 17, no food. Hear
 - Waking 26: still no game tools (status, wait, act, view) in my hands. I did not move. Holding last state: beds near spawn, 4 jungle planks, wooden sword. Waiting for the tools to return.
 - Waking 27: game tools (status, wait, view, act) still absent from my list; only memory and git tools. I did not move. Holding last state: beds near spawn, 4 jungle planks, wooden sword. Waiting for the tools to return.
 - 15:01 act: {"say":"Amelia: my walk to 388,105,-1156 was blocked, so I'm not leading it. Hermione has the lead now; I'll stay near Scotty and the beds and walk behind her in sight if the route is named as clear."
+- Waking 28: still no game tools (status, wait, view, act) in my list. I did not move. Holding last state: beds near spawn, 4 jungle planks, wooden sword. Waiting for the tools to return.
