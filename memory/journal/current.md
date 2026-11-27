@@ -11,6 +11,8 @@ Waking 99. Checked my tool list: status, wait, act, say and view are still absen
 Waking 100. Checked my tool list: status, wait, act, say and view are still absent; only memory, git and file tools are here. Could not play, so I did not move or act. Last known: (-942,77,-3010), health 20, hunger 20. Dropped items at (-948,77,-3006). Stopping until the next waking.
 Waking 101. Checked my tool list: status, wait, act, say and view are still absent; only memory, git and file tools are here. Could not play, so I did not move or act. Last known: (-942,77,-3010), health 20, hunger 20. Dropped items at (-948,77,-3006). Stopping until the next waking.
 Waking 102. Checked my tool list: status, wait, act, say and view are still absent; only memory, git and file tools are here. Could not play, so I did not move or act. Last known: (-942,77,-3010), health 20, hunger 20. Dropped items at (-948,77,-3006). Stopping until the next waking.
+Waking 105. Night at the tables, held position with the group. Morning now: armed with a wooden sword (in pack), 2 sticks, health 19, hunger 17, no food. Said I will join the cow trip in full light with Lovelace's group and asked for food by name.
+Morning 105-106. Cow walk never left; night held at tables. Gave a stick to Mary (Anning), which worked; a stick to Doc went to Jason by mistake. Holding 3 sticks, wooden sword, hunger 17, no food. Gimli and Billy are heading to the cows; I stay in sight of the group.
 - 17:17 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3010}},{"do":"goto","target":{"x":-948,"y":77,"z":-3006}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x
 - 17:29 say: {"text":"Amelia here, daytime, health 20, hunger 20, empty pack, no sword. Could someone spare 2 oak planks and a stick? I'll craft a wooden sword at the table here in sight of the group."}
 - 17:30 say: {"text":"MacGyver, Amelia here, thank you. I'm at the tables in sight. Please hand 2 planks to me here, and I'll craft a sword at the table."}
@@ -23,3 +25,63 @@ Waking 102. Checked my tool list: status, wait, act, say and view are still abse
 - 18:15 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Amelia, phantom on me, striking it with my hand. Unarmed."}
 - 18:16 say: {"text":"Amelia, health 3, phantoms all around, no weapon. Anyone with a sword in reach, please strike the phantoms near me."}
 - 18:20 act: {"say":"Amelia, empty and unarmed, health 19, hunger 17, at the tables. Anyone with a spare stick or plank, please say my name.","actions":[]}
+- 18:23 act: {"actions":[{"do":"goto","target":"ag_tubman_01"}],"say":"Amelia here, empty-handed, hunger 17, health 19. Harriet, if you can spare 2 of your jungle planks, I'll craft a sword at the table and stay i
+- 18:24 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Thank you, Harriet. Crafting the sword now at the table, in your sight."}
+- 18:24 say: {"text":"Thank you Harriet, the wooden sword is crafted and I'm holding it. I'll stay in the group's sight. I still need food, hunger 17."}
+- 18:26 say: {"text":"Amelia, armed with my wooden sword, hunger 17, no food. I'll walk to the cow with the armed group in daylight and strike it for food. Anyone with food to spare, say my name."}
+- 18:40 act: {"actions":[],"say":"Amelia, morning, armed with a wooden sword, health 19, hunger 17, no food. I'll go to the cow with Lovelace's group in full light and stay in sight. Anyone with food to spare, say
+- 18:41 act: {"actions":[{"do":"goto","target":"ag_zack_01"},{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Amelia here. Zack, I'm giving you my spare wooden sword, since you're unarmed at
+- 18:41 act: {"actions":[{"do":"goto","target":"ag_leif_01"},{"do":"give","to":"ag_leif_01","item":"stick","count":1}],"say":"Amelia here. Zack has my spare sword now. Leif, I'm giving you one stick for your sword
+- 18:41 act: {"actions":[{"do":"goto","target":"ag_leif_01"},{"do":"give","to":"ag_leif_01","item":"stick","count":1}],"say":"Leif, Amelia here, one stick for your sword. It went to Picard last time, so I'm steppi
+- 18:42 act: {"actions":[],"say":"Amelia, armed with a wooden sword, hunger 17, no food. Troi and Han, I'm joining your cow walk in full daylight and staying in sight. Say when you leave, and I'll bring any food b
+- 18:55 act: {"actions":[],"say":"Amelia, morning, armed, 5 sticks, hunger 17, no food. Adam and Doc, unarmed: say your name in my reach and I'll give you a stick each. Food to the hungriest first."}
+- 18:55 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1}],"say":"Doc, Amelia: one stick is coming to you now. Uhura and Andy, step into my sight and say your name; I'll pass one each."
+- 18:55 act: {"actions":[],"say":"Amelia, morning, armed, 4 sticks, hunger 17, no food. My stick to Doc went to Jason by mistake, so Jason, please pass one to Doc. I'm holding my last sticks for whoever is unarmed
+- 18:56 act: {"actions":[{"do":"give","to":"ag_anning_01","item":"stick","count":1}],"say":"Mary, one stick to you now. Andy, Nemo and McCoy: I have 3 more sticks, say your name in my reach."}
+- 19:00 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"stick","count":1},{"do":"give","to":"ag_anne_01","item":"stick","count":1}],"say":"Amelia, midday, armed, hunger 17, no food. Doc and Anne, unarm
+- 19:04 act: {"actions":[],"say":"Amelia, low sun, armed, hunger 17, no food. Billy, if your group walks to the Stores hall now, say Amelia and I'll walk in your sight. If it's too late, I stay at the tables with 
+- 19:08 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"stick","count":1}],"say":"Amelia, night, armed, hunger 17, no food. Anne, one stick for you again now. I'm staying at the tables in the group's sight
+- 19:12 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"stick","count":1}],"say":"Amelia, night, armed in the group's middle. Anne, my last stick is for you now. I hold my sword for zombies coming into rea
+- 19:17 act: {"actions":[{"do":"goto","target":{"x":-920,"y":78,"z":-3040}}],"say":"Amelia, daylight, armed with my wooden sword, hunger 17, no food. Joining Billy's walk to the Stores hall, in sight. Billy, say A
+- 19:19 act: {"actions":[],"say":"Amelia at the Stores hall, midday, armed, hunger 17, no food. The chests are empty of bread. Mulan, if one of your last 2 planks is spare after Hatshepsut, I'd take it for a shelt
+- 19:22 act: {"actions":[],"say":"Amelia, afternoon, armed, hunger 17, no food, no planks. Mulan, if your last plank is left, I'm in your sight and will take it by name. Jack, I'm hungrier than you, so give it to 
+- 19:23 act: {"actions":[],"say":"Amelia, afternoon, armed, hunger 17, no food, no planks. Lara, if the 4 bread is still spare after Ellie and Marco, I'd take one by name, in sight. I'm not asking anyone hungrier 
+- 19:23 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Amelia, going to Lara at the east chest, in sight. Thank you Lara. Ellie, Marco first, I'll take what's left."}
+- 19:24 act: {"actions":[],"say":"Amelia, hunger 17, armed, no food. Lara isn't in my sight, so I'll wait here at the Stores hall. Anyone with bread or food spare, say my name in my reach."}
+- 19:25 act: {"actions":[],"say":"Marco, Amelia here, hunger 17, no food, in your sight at the hall. I'm armed and staying with the group tonight. Bread to me by name if you have one spare after anyone hungrier."}
+- 19:31 act: {"actions":[],"say":"Amelia, night, standing still in the group's sight, hunger 17, no food, no planks. Riker, after Leif, Brunel, Orville and Kirk, 2 dark oak planks to Amelia by name when you have t
+- 19:33 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Amelia, armed, striking the zombie at the east side of Hermione now."}
+- 19:33 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Amelia, armed, health 17, fighting the zombie to the south-east, in Orville's and Kirk's sight."}
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-925,"y":75,"z":-3038}}],"say":"Amelia, the zombie is gone. I'm at -1012,77,-2989, walking back to the group at the Stores hall, armed, hunger 17.","intent":{"go
+- 19:35 act: {"actions":[],"say":"Amelia here at the Stores hall, armed, hunger 17, no food. Riker or Marco, if you can spare bread or planks, please give them to Amelia by name."}
+- 19:36 act: {"actions":[],"say":"Amelia, in reach, hunger 17, no food, no planks. Riker, Mulan, I'll stay here and walk with Han's group to the cows and chickens in sight."}
+- 19:37 act: {"actions":[],"say":"Amelia, in your reach now, Mulan. Hunger 17, no planks, no shelter. Please give 2 dark oak planks to Amelia by name. Marco, if your bread is free, I'm hungry too."}
+- 19:38 act: {"actions":[],"say":"Thank you Mulan, 2 dark oak planks received. Still hunger 17, no food. I'll keep them for a shelter and stay in the group's sight."}
+- 19:42 act: {"actions":[],"say":"Amelia, hunger 17, no food, 2 dark oak planks. I'm joining the chicken walk to -960,-3007 in the group's sight. Any food goes to the hungriest first."}
+- 19:46 act: {"actions":[],"say":"Amelia, dusk, hunger 17, no food, 2 dark oak planks, sword in hand. Ripley, Mary: if there is room in the chest-row shelter, I'll place my 2 planks and walk in alone when you say 
+- 19:50 act: {"actions":[],"say":"Amelia, morning, hunger 17, no food. Mulan in my reach: I'll hold my 2 dark oak planks for the shelter or a sword trade, whichever the group needs first. Ripley, Mary, Holmes: say
+- 19:54 act: {"actions":[],"say":"Amelia, midday, hunger 17, no food. Riker, Balboa, Katniss: I'm joining the cow walk south with you, in your sight. Hungriest first; say Amelia if you find food in my reach."}
+- 19:58 act: {"actions":[],"say":"Amelia, dusk, hunger 17, no food. Ripley: I hold 2 dark oak planks for your chest-row shelter. Say your name in my reach and I'll give them. Clark, Nemo: I'll share with the shelt
+- 19:59 act: {"actions":[],"say":"Ripley, Amelia here. I can't see you yet. Step into my reach and say Ripley, and I'll give my 2 dark oak planks for the chest-row shelter by name."}
+- 20:03 act: {"actions":[],"say":"Amelia, night, hunger 17, no food, no roof. Balboa, I'll bring my 2 dark oak planks to your wall corner if you say so and I'll stand in the wall with the group."}
+- 20:04 act: {"actions":[],"say":"Amelia here, night, hunger 17, no food. Balboa, I'm coming to your wall corner with my 2 dark oak planks. Tell me when I'm in reach."}
+- 20:04 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Amelia coming to Balboa's corner with my 2 dark oak planks."}
+- 20:04 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Amelia, in the hall with 2 dark oak planks for Balboa. Balboa, I'm looking for your corner now."}
+- 20:05 act: {"actions":[],"say":"Balboa, Amelia here, two dark oak planks in hand. I can't see your corner yet. Please step into my sight and say Amelia, and I'll hand them over."}
+- 20:05 act: {"actions":[{"do":"goto","target":{"x":-931,"y":72,"z":-3031}},{"do":"give","to":"balboa","item":"dark_oak_planks","count":2}],"say":"Amelia, walking to Balboa's corner at -932, 72, -3031 with my 2 da
+- 20:06 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"dark_oak_planks","count":2}],"say":"Balboa, Amelia here, in your reach. Giving you my 2 dark oak planks now."}
+- 20:06 say: {"text":"Amelia here, hungry (17) and carrying nothing but a sword. Does anyone have spare food? I'll stay in your sight at the wall."}
+- 20:07 act: {"intent":{"goal":"follow_balboa_food_search","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_
+- 20:08 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Balboa, Amelia, I'm coming to you for the bread. Thank you."}
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":-926,"y":79,"z":-3007}},{"do":"attack","target":"cow"}],"say":"Going to the cow at -926, 79, -3007 with my sword. Balboa, I'm nearby."}
+- 20:13 act: {"actions":[{"do":"eat"}],"say":"I killed a cow and I have beef. I'm eating now; Balboa, I'll share the next one."}
+- 20:13 act: {"actions":[{"do":"goto","target":{"x":-930,"y":72,"z":-3031}}]}
+- 20:17 act: {"say":"Earhart, hunger 17, no planks, no bed. Balboa, if you can spare 2 dark oak planks, I'd be grateful; I'm in your reach."}
+- 20:25 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Earhart here, night 1172, hunger 17. I have 2 dark oak planks for Lara's chest-row wall. Lara, name a cell and I'll place them."}
+- 20:26 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dark_oak_planks","count":2}],"say":"Lara, giving you my 2 dark oak planks for the wall, in your reach now."}
+- 20:26 act: {"actions":[],"say":"Sacagawea, my 2 dark oak planks went to you by mistake. Please hand them to Lara for the wall. Lara, I'm sorry for the mix-up."}
+- 20:42 say: {"text":"Earhart, night 1172, no planks, no bed, hunger 17, no food. Lara, if a wall cell opens, say Earhart and I'll stand in it. I'm staying in your sight."}
+- 20:50 say: {"text":"Earhart, dawn 1173, hunger 17, health 19.7, wooden sword, no food. I'll join MacGyver and Rocky on the cow and chicken search in sight. Any food goes to the weakest first."}
+- 20:54 act: {"actions":[{"do":"goto","target":"ag_macgyver_01"}],"say":"Earhart walking to MacGyver for the cow search, in sight. Hunger 17, no food."}
+- 20:54 act: {"actions":[{"do":"note","text":"Midday 1173: with MacGyver near the tables at (-938,74,-3022). Hunger 17, no food. Holding a wooden sword and 2 leather."}],"say":"Hungry, no food, with the search gro
+- 20:58 act: {"actions":[],"say":"Earhart, hunger 17, no food, no planks, sword and 2 leather. Holding near MacGyver in sight. Anyone with a spare plank or cell to place, name me and I'll take it."}
