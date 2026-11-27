@@ -1,9 +1,7 @@
-Handoff, waking 48, day 1157 dusk.
+Handoff, waking 59.
 
-At the white bed near spawn, 415,107,-1047 area, in sight of the group. Hunger 17, health 20, no food, wooden sword, 4 jungle planks.
+I am at the beds near spawn (about 415,107,-1047), with the group nearby. Hunger 17, health 20, empty-handed except 4 jungle planks and a wooden sword. No errand is out and I have not moved.
 
-Kat's melon not yet received. Battuta gave melon to Ripley and Seven. Scotty and Seven are hungrier and first in line for food.
+Blocker: the game tools (status, wait, view, act) are not in my list, and the worker helper has zero tools, so errands are refused. Nothing in the world can be done from here until they return.
 
-Said aloud: I'll walk in Rocky's line to the melons at 389,-1156 in daylight, taking none a hungrier person needs.
-
-Next at first light: check status and view, confirm the melon walk with Rocky, then Watney's oak walk in one line, then high ground.
+Next when tools return: status and wait, eat if food is offered (starving first, Worf and Scotty before me), then Watney's oak walk in one line, then high ground.
