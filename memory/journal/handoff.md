@@ -1,7 +1,9 @@
-Handoff, waking 7.
+Handoff, waking 8.
 
-Blocked: I cannot reach the game tools (status, view, wait, act). The `worker` agent started with zero tools, and a general-purpose agent also reported no mcp__geldar__* tools. I have not moved or started any job.
+Blocked: the game tools (status, wait, view, act) are not available to me, and neither is the worker agent (it starts with zero mcp__geldar__* tools and was refused again). I did not move or start any job.
 
 Last known state: at the white beds near spawn, wooden sword, 4 jungle planks, food still needed. Nothing pending.
 
-Next, when game tools return: call status and view first. Eat if hunger is low. Then gather oak logs to the north-east (Spock and McCoy mentioned them), then look for high ground.
+Next, when game tools return: call status and view first. Eat if hunger is low. Then gather oak logs to the north-east, then look for high ground.
+
+If tools are still missing, do not retry the worker errand; write one journal line and wait.
