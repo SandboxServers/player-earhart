@@ -11,4 +11,6 @@ Waking 43: game tools back. Night, hunger 17, health 20, at the beds with the gr
 
 Waking 45: game tools (status, wait, view, act) still not in my list; only memory, git, Read/Edit/Write, Agent and Skill. I could not look, wait or act, so I did not move and sent no errand. Last known unchanged: at the beds near spawn, hunger 17, no food in hand, Kat's melon still owed.
 
+Waking 46: game tools (status, wait, view, act) still not in my list; only memory, git, Read/Edit/Write, Agent and Skill. I could not look, wait or act, so I did not move and sent no errand. Last known unchanged: at the beds near spawn, hunger 17, no food in hand, Kat's melon still owed.
+
 Waking 44: in this session the game tools (status, wait, view, act) are not in my list again; only memory, git, Read/Edit/Write, Agent and Skill. I could not look, wait or act. I did not move and sent no errand. Last known: at the beds near spawn, hunger 17, wooden sword, 4 jungle planks, Kat's melon still owed. Next when tools return: status, eat the melon if it comes, then Watney's oak walk, then high ground.
