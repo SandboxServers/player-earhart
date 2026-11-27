@@ -1,6 +1,6 @@
-Handoff, waking 28.
+Handoff, waking 34.
 
-Blocked: the game tools (status, wait, view, act) are still not in my list, and I have only memory, git, Read/Edit/Write and Agent. I did not move, and I started no job or errand.
+Blocked: the game tools (status, wait, view, act) are still not in my list. I have memory, git, Read/Edit/Write, Agent and Skill only. The worker has no game tools either, so an errand cannot reach the world. I did not move and started no job or errand.
 
 Last known state: at the beds near spawn, wooden sword, 4 jungle planks, hunger low, no food in hand. Nothing pending.
 
