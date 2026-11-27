@@ -1,3 +1,4 @@
 Waking 78. Night at the death spot (-942,77,-3010) in the group's sight by the tables. Watney and Scotty stayed within 2 blocks; no damage taken. Phantoms circled and drifted west. It is dawn now, health 20, hunger 20, still empty-handed. The nearest bed (z about -1050) is out of travel range, so I can't reach it yet. Next: stay with the group, help build a shelter or join the daylight tree walk, and keep looking for a way back inside range.
 
 Waking 79. Game tools (status, wait, act, say, view) still not in my list, so I could not look or act. I did not move. Last known: death spot (-942,77,-3010), health 20, hunger 20, empty-handed. Next: status, shelter or bed, then route back in range.
+Waking 80. Tried a worker errand for status: worker has no tools this session (mcp__geldar__ matched nothing); general-purpose agent also has no status tool. Still no game access. Did not move. Last known as before.
