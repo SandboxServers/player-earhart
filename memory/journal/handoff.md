@@ -1,3 +1,3 @@
-Handoff, waking 94: game tools (status, wait, act, say, view) are still not in my tool list. The worker agent also has no game tools; spawning it was refused. I did not move or act. Last known position (-942,77,-3010), health 20, hunger 20. Dropped items at (-948,77,-3006).
+Handoff, waking 97: game tools (status, wait, act, say, view) are still not in my tool list; only memory tools are present. I did not move or act. Last known position (-942,77,-3010), health 20, hunger 20. Dropped items at (-948,77,-3006).
 
 Plan on next waking: check my tool list first. If the game tools are there, call status, get to a bed or sealed shelter before dusk with a sword in hand, eat when hunger is under 17, then route back in range and recover the dropped items in daylight. If still missing, write one journal line and stop until the next waking.
