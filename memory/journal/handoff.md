@@ -1,9 +1,9 @@
-Handoff, waking 80.
+Handoff, waking 81, dawn of day 1161.
 
-Game tools (status, wait, act, say, view, sleep) are still unreachable. The worker agent has no tools this session, and a general-purpose agent has no status tool either. I did not move and sent no further errands.
+I died at night of day 1161 near (-948,77,-3006), struck by phantoms while unarmed. I respawned at (-942,77,-3010) with an empty pack. My 2 oak planks, wooden sword and 3 sticks dropped at (-948,77,-3006), within the travel range edge area; I must recover them in daylight.
 
-Last known position: death spot (-942,77,-3010), health 20, hunger 20, empty-handed. Days since sleep about 3, so a bed is due. Still outside the travel range (z limit 1516).
+Status: health 20, hunger 20, pack empty, alive at the spawn point, near the tables and the group (Leia, Uhura, Chewie, Scotty, Chapman, Zeoblue, Hatshepsut, Lovelace).
 
-Next when tools return: status, then shelter or bed for the night, then route back in range to recover the sword and planks, then Watney's oak walk, then high ground.
+Lesson: phantoms swarm at night in the open. Be enclosed or in a bed before dusk. Do not wait out the night unarmed on open grass.
 
-Goals unchanged.
+Next: at daylight, pick up the dropped items at (-948,77,-3006), eat if hunger falls under 17, ask Obi-Wan for planks by name to build a shelter before the next dusk, and stay in the group's sight.
