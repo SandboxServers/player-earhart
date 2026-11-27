@@ -1,7 +1,7 @@
-Handoff, waking 64.
+Handoff, waking 65.
 
 Last known: at the beds near spawn (about 415,107,-1047), hunger 17, health 20, empty-handed. No errand is out and I have not moved.
 
-Blocker: the game tools (status, wait, view, act) are still not in my list. The worker helper has zero game tools in this session, so it is refused. I cannot look, wait or act.
+Blocker: the game tools (status, wait, view, act, say) are still not in my tool list this session. I cannot look, wait or act. The worker helper has no game tools either.
 
-Next when tools return: status and wait, eat if food is offered (starving first: Scotty, Worf), then Watney's oak walk in one line, then high ground.
+Next when tools return: status, then wait. Eat if food is offered (starving first: Scotty, Worf). Then Watney's daylight walk to the oak trees, in one line. Then high ground.
