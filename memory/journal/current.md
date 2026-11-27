@@ -44,3 +44,4 @@ Waking 58: game tools (status, wait, act, view) still not in my list; the `statu
 - 15:56 act: {"actions":[{"do":"note","text":"Died at night near spawn (-942,77,-3010), killed by unseen attackers, likely phantoms. Dropped wooden sword and 4 jungle planks at this spot. Respawned with nothing."}
 
 Waking 64: game tools (status, wait, act, view) still not in my list. The worker helper was refused again (zero tools). I did not move and sent no errand. Last known unchanged: at the beds near spawn, hunger 17, empty-handed. Next when tools return: status, eat if offered (starving first), then Watney's oak walk, then high ground.
+- 16:01 act: {"actions":[{"do":"goto","target":{"x":-938,"y":76,"z":-3017}}],"say":"Amelia, morning. Empty-handed at the death spot. Going to the item north-east of me to see if it's my sword or planks.","intent":
