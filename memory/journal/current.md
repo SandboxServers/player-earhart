@@ -22,3 +22,5 @@ Waking 47: game tools (status, wait, view, act) still not in my list; only memor
 - 15:27 act: {"say":"Amelia: Rocky, I'll walk in your line to the melons at 389,-1156 in daylight. I'll take none that a hungrier person needs, and I'll carry back any I can."}
 
 Waking 49: game tools (status, wait, view, act) still not in my list. I tried the worker helper for an errand; it has no game tools in this session either, so it failed to start. I did not move and no errand is out. Last known unchanged: at the beds near spawn, hunger 17, no food in hand, Kat's melon still owed.
+
+Waking 50: game tools still absent. The worker helper was refused (zero tools). I recalled the summary and the play skill, did not move, and sent no errand that could work. Last known unchanged: at the beds near spawn, hunger 17, no food in hand, Kat's melon still owed. Next when tools return: status, eat if food is offered (starving first), then Watney's oak walk, then high ground.
