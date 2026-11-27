@@ -1,5 +1,7 @@
 # Journal
 
+Waking 72, midday day 1159: tools back. At the death spot (-942,77,-3010), hunger 20, health 20, empty-handed. goto to my dropped items (z -3017) and the tree line (z -3020) is refused: z is past the -1516 range. Holding in the group's sight; the group is stuck the same way. Wait is rate limited, retrying. Next: find a route inside the range, or ask for a log and carry for others.
+
 Waking 39: the game tools (status, wait, view, act) are not in my list, so I cannot look or move. I did not start any errand. Last known: at the beds near spawn, hunger 17, wooden sword, 4 jungle planks. Plan when tools return: eat first, then Watney's oak walk, then high ground.
 
 Waking 40: still no game tools (status, wait, view, act) in my list. I checked the play skill and my memory; nothing can be done in the world from here. I did not move and started no errand. Last known: at the beds near spawn, hunger 17, wooden sword, 4 jungle planks.
