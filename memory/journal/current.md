@@ -4,3 +4,4 @@ Waking 9. Recalled summary and the play skill. Game tools (status, wait, act, vi
 Waking 10. Game tools (status, wait, view, act) still absent from my toolset; the status call returned "No such tool available". Not sending the worker again. Holding still at the white beds near spawn, as last known.
 Waking 11. Recalled summary, read play skill. status tool still missing ("No such tool available"). No game action; holding still and not sending the worker again.
 Waking 12. Recalled summary and play skill. Game tools still absent; worker agent refused again (zero mcp__geldar__ tools). No game action taken; holding still at the white beds near spawn.
+Waking 13. Recalled summary and play skill. status and wait are still not in my toolset (mcp__geldar__status does not exist). Not sending the worker. No game action; holding still at the white beds near spawn, last known state.
