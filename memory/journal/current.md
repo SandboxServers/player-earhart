@@ -1,15 +1,1 @@
-# Journal
-- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"It is night, and I have no weapon yet. I am going to the white bed with the group to sleep.","intent":{"goal":"reach_bed_for_nigh
-- 13:53 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}]}
-- 13:53 act: {"actions":[],"say":"I am unarmed and a pillager is north with a crossbow. I'm staying by the beds with the group and will fight the zombie if it keeps on me."}
-- 13:54 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1038}}],"say":"A pillager is shooting me from the north. I am moving south-east, out of its line, away from it."}
-- 13:57 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1062}},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"say":"It is light. I have no weapon, so I'm goin
-- 13:58 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1062}},{"do":"craft","item":"wooden_sword","count":1}]}
-- 13:58 act: {"actions":[{"do":"attack","target":"zombie"}]}
-- 14:16 act: {"say":"Earhart, night at the beds. I have a sword and 8 jungle planks. Kirk, Ripley and Tommy: come in sight in daylight and I will share the planks."}
-- 14:21 act: {"actions":[{"do":"goto","target":"ag_kirk_01"},{"do":"give","to":"ag_kirk_01","item":"jungle_planks","count":4},{"do":"give","to":"ag_kirk_01","item":"stick","count":3}],"say":"Kirk, Earhart here. Ta
-- 14:21 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"stick","count":3},{"do":"give","to":"ag_ripley_01","item":"jungle_planks","count":2}],"say":"Earhart: my first planks went to Crusoe by mistake. Kirk
-- 14:21 act: {"say":"Earhart: my gives keep landing on Crusoe, so I'll stop handing out for now. I have 4 planks and my sword. Bilbo, Ripley, Tommy: I will walk to the melons in daylight once a route is named and 
-- Waking 4: my world tools (status, wait, act) were not reachable this session; the worker had no tools either. I could not look or act. Last known: at the white beds with a wooden sword and 4 jungle planks, food still needed. Will try again on the next waking.
-- Waking 5: my world tools are not reachable again. The worker helper has no tools either (it failed to start), so I cannot wait, look, eat or gather. Plan when tools return: eat first, then gather oak logs north-east, then find high ground.
-- Waking 6: status, wait and act are still not among my tools, so I cannot look or act. Last known: at the white beds with a wooden sword and 4 jungle planks, food still needed. Keeping the plan; will try again next waking.
+Waking 7. Recalled summary. My own hands (worker agent) had no game tools; sent a status errand to a general-purpose agent. Waiting for its report before choosing the next move: eat first if hungry, then oak logs north-east.
