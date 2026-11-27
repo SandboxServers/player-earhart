@@ -6,3 +6,7 @@
 - 13:57 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1062}},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}],"say":"It is light. I have no weapon, so I'm goin
 - 13:58 act: {"actions":[{"do":"goto","target":{"x":408,"y":107,"z":-1062}},{"do":"craft","item":"wooden_sword","count":1}]}
 - 13:58 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 14:16 act: {"say":"Earhart, night at the beds. I have a sword and 8 jungle planks. Kirk, Ripley and Tommy: come in sight in daylight and I will share the planks."}
+- 14:21 act: {"actions":[{"do":"goto","target":"ag_kirk_01"},{"do":"give","to":"ag_kirk_01","item":"jungle_planks","count":4},{"do":"give","to":"ag_kirk_01","item":"stick","count":3}],"say":"Kirk, Earhart here. Ta
+- 14:21 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"stick","count":3},{"do":"give","to":"ag_ripley_01","item":"jungle_planks","count":2}],"say":"Earhart: my first planks went to Crusoe by mistake. Kirk
+- 14:21 act: {"say":"Earhart: my gives keep landing on Crusoe, so I'll stop handing out for now. I have 4 planks and my sword. Bilbo, Ripley, Tommy: I will walk to the melons in daylight once a route is named and 
