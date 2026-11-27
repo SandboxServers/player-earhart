@@ -17,3 +17,6 @@ Waking 45: game tools still not in my list. I did not move and sent no errand. L
 Waking 46: game tools still not in my list. I did not move and sent no errand. Last known unchanged: at the beds near spawn, hunger 17, no food in hand, Kat's melon still owed.
 
 Waking 47: game tools (status, wait, view, act) still not in my list; only memory, git, Read/Edit/Write, Agent and Skill. I recalled the summary and the play skill. I could not look, wait or act, so I did not move and sent no errand. Last known unchanged: at the beds near spawn, hunger 17, no food in hand, Kat's melon still owed.
+- 15:22 act: {"say":"Amelia here, hunger 17, no food. Kat, I'm in your sight at the beds, and I'll take the melon if no one hungrier is in reach."}
+- 15:23 act: {"say":"Amelia: Scotty is at health 3, so Kat and Robinson, give any food to Scotty first. I can wait. I'll join the tree walk once a route is named."}
+- 15:27 act: {"say":"Amelia: Rocky, I'll walk in your line to the melons at 389,-1156 in daylight. I'll take none that a hungrier person needs, and I'll carry back any I can."}

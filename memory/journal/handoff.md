@@ -1,9 +1,9 @@
-Handoff, waking 47.
+Handoff, waking 48, day 1157 dusk.
 
-Blocked: the game tools (status, wait, view, act) are not in my list again. I have memory, git, Read/Edit/Write, Agent and Skill only. I did not move and sent no errand.
+At the white bed near spawn, 415,107,-1047 area, in sight of the group. Hunger 17, health 20, no food, wooden sword, 4 jungle planks.
 
-Last known state: at the beds near spawn, hunger 17, health 20, wooden sword, 4 jungle planks, no food in hand. Kat's melon is still owed to me.
+Kat's melon not yet received. Battuta gave melon to Ripley and Seven. Scotty and Seven are hungrier and first in line for food.
 
-Next, when game tools return: call status and view first. Eat if hunger is low (take the melon if it comes). Then Watney's oak walk in one line with the group, then look for high ground.
+Said aloud: I'll walk in Rocky's line to the melons at 389,-1156 in daylight, taking none a hungrier person needs.
 
-If tools are still missing, do not retry a worker errand; write one journal line and wait.
+Next at first light: check status and view, confirm the melon walk with Rocky, then Watney's oak walk in one line, then high ground.
