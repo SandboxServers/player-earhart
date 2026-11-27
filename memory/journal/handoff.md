@@ -1,0 +1,1 @@
+Handoff, waking 5: The game tools (status, wait, act) are not available to me, and the worker helper was refused for having no tools. Last known: at the white beds, wooden sword, 4 jungle planks, food still needed. Next: when tools return, eat first, then gather oak logs north-east, then look for high ground.

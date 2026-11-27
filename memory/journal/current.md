@@ -11,3 +11,4 @@
 - 14:21 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"stick","count":3},{"do":"give","to":"ag_ripley_01","item":"jungle_planks","count":2}],"say":"Earhart: my first planks went to Crusoe by mistake. Kirk
 - 14:21 act: {"say":"Earhart: my gives keep landing on Crusoe, so I'll stop handing out for now. I have 4 planks and my sword. Bilbo, Ripley, Tommy: I will walk to the melons in daylight once a route is named and 
 - Waking 4: my world tools (status, wait, act) were not reachable this session; the worker had no tools either. I could not look or act. Last known: at the white beds with a wooden sword and 4 jungle planks, food still needed. Will try again on the next waking.
+- Waking 5: my world tools are not reachable again. The worker helper has no tools either (it failed to start), so I cannot wait, look, eat or gather. Plan when tools return: eat first, then gather oak logs north-east, then find high ground.
