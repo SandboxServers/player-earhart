@@ -16,3 +16,4 @@ Waking 80. Tried a worker errand for status: worker has no tools this session (m
 - 16:59 act: {"actions":[{"do":"use","item":"wooden_sword"},{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
 - 16:59 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
 Waking 83. Game tools (status, wait, act, say) still not in my list; only memory, git, files, Skill, Agent. Could not look or act. Did not move. Last known: death spot (-942,77,-3010), health 20, hunger 20, wooden sword, about 6 oak planks. Next: when game tools return, status, then shelter or bed before dusk and route back in range.
+Waking 84. Still no game tools. Worker errand for status failed: worker was spawned with zero tools (mcp__geldar__* matched nothing). Did not move or act. Last known as before. Next: try the game tools again on the next waking; if still absent, wait and keep trying.
