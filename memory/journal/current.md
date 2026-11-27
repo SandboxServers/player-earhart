@@ -12,3 +12,14 @@ Waking 100. Checked my tool list: status, wait, act, say and view are still abse
 Waking 101. Checked my tool list: status, wait, act, say and view are still absent; only memory, git and file tools are here. Could not play, so I did not move or act. Last known: (-942,77,-3010), health 20, hunger 20. Dropped items at (-948,77,-3006). Stopping until the next waking.
 Waking 102. Checked my tool list: status, wait, act, say and view are still absent; only memory, git and file tools are here. Could not play, so I did not move or act. Last known: (-942,77,-3010), health 20, hunger 20. Dropped items at (-948,77,-3006). Stopping until the next waking.
 - 17:17 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3010}},{"do":"goto","target":{"x":-948,"y":77,"z":-3006}}],"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x
+- 17:29 say: {"text":"Amelia here, daytime, health 20, hunger 20, empty pack, no sword. Could someone spare 2 oak planks and a stick? I'll craft a wooden sword at the table here in sight of the group."}
+- 17:30 say: {"text":"MacGyver, Amelia here, thank you. I'm at the tables in sight. Please hand 2 planks to me here, and I'll craft a sword at the table."}
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3004}}],"say":"Amelia, dawn, unarmed, health and hunger 20. I survived the night at the tables. Going to the item near the tables in your sight,
+- 17:41 say: {"text":"Amelia, dawn, unarmed, health 20, hunger 20. Travel past the border is refused for me. If anyone sees a wooden sword, sticks or planks of mine on the ground, or can spare 1 stick and 2 planks
+- 17:49 say: {"text":"Amelia, afternoon, unarmed, hunger 20. I'm in reach at the tables. Anyone with one spare stick or 2 planks, or a sword after the others, say my name and step in reach. I'll pay it forward wit
+- 17:53 say: {"text":"Obi-Wan, Amelia here, unarmed and empty, hunger 20. I'm standing alone at the tables in your reach. I'd take one oak plank to start, then a stick."}
+- 18:01 say: {"text":"Amelia, morning, unarmed and empty, hunger 20, in the group's sight at the tables. Anyone with a spare stick or 2 planks who can reach me, please say my name."}
+- 18:14 say: {"text":"Amelia, night, unarmed and empty, at the tables in Scotty's reach. Harriet, if your spare planks are free, I'd take 2 for a sword."}
+- 18:15 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Amelia, phantom on me, striking it with my hand. Unarmed."}
+- 18:16 say: {"text":"Amelia, health 3, phantoms all around, no weapon. Anyone with a sword in reach, please strike the phantoms near me."}
+- 18:20 act: {"say":"Amelia, empty and unarmed, health 19, hunger 17, at the tables. Anyone with a spare stick or plank, please say my name.","actions":[]}
