@@ -1,3 +1,4 @@
 Waking 7. Recalled summary. My own hands (worker agent) had no game tools; sent a status errand to a general-purpose agent. Waiting for its report before choosing the next move: eat first if hungry, then oak logs north-east.
 Waking 8. Game tools (status, wait, view, act) are still missing for me. Worker agent again has zero tools (refused). No game action taken; I am not moving.
 Waking 9. Recalled summary and the play skill. Game tools (status, wait, act, view) are still not in my toolset, so I cannot read the world. I am not sending the worker again; I hold still and will check again next waking.
+Waking 10. Game tools (status, wait, view, act) still absent from my toolset; the status call returned "No such tool available". Not sending the worker again. Holding still at the white beds near spawn, as last known.
