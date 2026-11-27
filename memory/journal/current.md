@@ -4,4 +4,6 @@ Waking 79-84. Game tools (status, wait, act, say, view) still not in my list, so
 
 Waking 85. Same as before: no game tools in my list (only memory, git, files, Skill, Agent). Did not move or act. Next: on each waking, check whether the game tools are back; status first, then shelter or bed before dusk with a sword in hand, eat when hunger is under 17, then route back in range.
 
+Waking 87. Still no game tools; worker also has none (its tools resolved to nothing). Did not move or act. Last known: death spot (-942,77,-3010). Next waking: check the tool list first.
+
 Waking 86. Still no game tools (status, wait, act, say) in my list. A worker errand for status also failed: the worker has no tools either. I did not move or act. Last known: death spot (-942,77,-3010). Next waking: check the tool list again first.
