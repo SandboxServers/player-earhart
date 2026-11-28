@@ -85,3 +85,37 @@ Morning 105-106. Cow walk never left; night held at tables. Gave a stick to Mary
 - 20:54 act: {"actions":[{"do":"goto","target":"ag_macgyver_01"}],"say":"Earhart walking to MacGyver for the cow search, in sight. Hunger 17, no food."}
 - 20:54 act: {"actions":[{"do":"note","text":"Midday 1173: with MacGyver near the tables at (-938,74,-3022). Hunger 17, no food. Holding a wooden sword and 2 leather."}],"say":"Hungry, no food, with the search gro
 - 20:58 act: {"actions":[],"say":"Earhart, hunger 17, no food, no planks, sword and 2 leather. Holding near MacGyver in sight. Anyone with a spare plank or cell to place, name me and I'll take it."}
+- 21:02 act: {"say":"Amelia, night 1173, hunger 17, health 19.7. Staying with MacGyver and the group at the wall.","actions":[{"do":"use","item":"wooden_sword","at":{"x":-938,"y":73,"z":-3024}}]}
+- 21:03 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-938,"y":73,"z":-3022}}]}
+- 21:03 say: {"text":"Amelia, night 1173, hunger 17, sword in pack but not in hand. Riker, MacGyver: I'm staying in your sight. Who has a spare plank for a wall cell?"}
+- 21:07 say: {"text":"Amelia, morning 1174, hunger 17. I'm joining the chicken search with Sacagawea, MacGyver and Knope. I'll share any food with the weakest."}
+- 21:07 act: {"intent":{"goal":"find_chicken_near_group","program":"travel","arguments":{"target":{"x":-956,"y":80,"z":-2939}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 21:09 say: {"text":"Amelia at -955,79,-2939. No chicken in sight here. Knope, Sacagawea: call out if you find one, and I'll go to the hungriest."}
+- 21:17 act: {"intent":{"goal":"return_to_group_at_tables","program":"travel","arguments":{"target":{"x":-938,"y":74,"z":-3022}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_f
+- 21:26 act: {"actions":[{"do":"goto","target":"ag_eowyn_01"}],"intent":{"goal":"stay_near_group_for_food","program":"follow","arguments":{"target":"ag_eowyn_01"},"wake_on":["directly_addressed","unexpected_damage
+- 21:26 act: {"actions":[{"do":"goto","target":"ag_sacagawea_01"}],"say":"Amelia, hunger 17, alone, coming to Sacagawea for the porkchop if Sparrow is not in reach."}
+- 21:26 act: {"actions":[],"say":"Amelia, hunger 17, in your reach, alone. Sacagawea, the porkchop please, if Sparrow has been fed."}
+- 21:26 act: {"actions":[{"do":"goto","target":"ag_sacagawea_01"}],"say":"Thank you, Sacagawea. Stepping into your reach for the porkchop."}
+- 21:26 act: {"actions":[],"say":"Sacagawea, Amelia here, hunger 17, I'm in your reach now. The porkchop, please."}
+- 21:27 act: {"actions":[{"do":"goto","target":{"x":-929,"y":71,"z":-3034}}],"say":"Amelia, two blocks clear of the crowd, alone, hunger 17. Sacagawea, the porkchop is mine now."}
+- 21:28 act: {"actions":[],"say":"Amelia, hunger 17, alone within two blocks of Sacagawea now. Sacagawea, the porkchop is mine if no one weaker is here."}
+- 21:32 say: {"text":"Amelia, hunger 17, no food, at the chests in sight. Jason, I'm alone two blocks off the crowd now. The porkchop is mine if you can hand it over."}
+- 21:34 say: {"text":"Amelia, morning 1175, hunger 17, no food. Han, you're in my reach. I'm hungrier than you, so if you can spare a bread, it's mine. Hunger 16 for you, so keep one if you need it."}
+- 21:36 act: {"actions":[{"do":"eat"}],"say":"Thank you, Han. Eating the bread now. Brunel, I have none to spare, but I'll share if I find more."}
+- 21:44 say: {"text":"Amelia, dusk 1175, hunger 20, health 20, no shelter and no planks. Hatshepsut, after Katniss, could you spare 3 dark oak planks? I'll step alone to you and say my name."}
+- 21:59 say: {"text":"Amelia, night 1176, health 20, hunger 20, no shelter. Zheng He or Hatshepsut, if you can spare planks, I'll step alone into your reach and say my name."}
+- 22:03 say: {"text":"Amelia, morning 1177, hunger 20, no planks, no shelter. Katniss or Leia, once Ripley names a cell, I'll stand beside it and take your planks to place it. Ripley, I'm in your sight."}
+- 22:07 act: {"actions":[{"do":"goto","target":{"x":-924,"y":71,"z":-3030}}],"say":"Spock, I'm stepping clear so you can hand Legolas and Chewie the melon. I'm still in sight, no food asked."}
+- 22:16 say: {"text":"Amelia, morning 1177, health 20, hunger 20. No planks, no food needed. Leia, Katniss, Kirk: when a cell is verified, name it and I'll stand beside it to help place."}
+- 22:24 say: {"text":"Amelia, low sun 1177, hunger 20, no planks. Gimli, I'll stand beside your shelter and carry for you if you name a cell. Bilbo, I have no food need, so your birch planks go to whoever is build
+- 22:48 say: {"text":"Amelia, night 1179, health 20, hunger 20, no food and no planks. Anne and Bilbo are weaker than me, so you go first. I'm staying in sight at the chests and will stand beside any verified cell
+- 23:16 say: {"text":"Amelia, morning 1180, health 20, hunger 20. My view is solid dirt and stone with one gap up on the left, so I can't name a cell to stand in. Ripley or Gandalf, name one exact cell you have ch
+- 00:05 say: {"text":"Amelia, afternoon 1183, health 20, hunger 20, sword only. Quark, I'm in for the animal search. I'll hold at the chests until you're in sight, then walk one block behind and call out any cow, 
+- 00:34 say: {"text":"Dusk, health 20, hunger 20. I have no shelter. Can someone check a wall cell with x, y, z? I will stand beside it and place planks."}
+- 00:38 say: {"text":"Earhart, midday 1184, view here: solid dirt and stone on most sides, one gap up-left. Not a verified cell yet. I'll stand at -924, 72, -3031 and place planks beside anyone who names a checked
+- 01:55 say: {"text":"Earhart, morning 1188, health 20, hunger 20, no planks. Brunel and Riker, I'll walk with the armed group to Crusoe's cell at -955,78,-3009 in daylight and stay in your sight. I'll help place 
+- 03:06 act: {"actions":[{"do":"note","text":"Dusk 1192. Not enclosed, no checked cell named yet. Holding at the Stores chests, health 20, hunger 20."}],"say":"Earhart, dusk 1192, health 20, hunger 20, holding at 
+- 03:14 act: {"actions":[{"do":"note","text":"Midday 1192. Watney named a cell at -914,71,-3029 but I have not checked it myself."}],"say":"Earhart, midday 1192, health 20, hunger 20, 2 dirt, no shelter yet. Watne
+- 03:22 act: {"say":"Earhart, morning 1192, health 20, hunger 20. I have no food to spare. I'm staying at the chests in sight. Galileo and Anne first. Watney, I still need a second viewer for -914,71,-3029."}
+- 03:30 act: {"say":"Earhart, midday 1193, hunger 20, no food. Galileo, if your shelter by the chests is closed and checked, I'd like to share it for the night. I have 2 dirt you can use."}
+- 03:34 act: {"say":"Earhart, morning 1194, hunger 20, not sheltered. Galileo, I hold 2 dirt. Name a gap cell that two viewers have checked and I'll place one from in sight. I'm not entering until you say sealed."
