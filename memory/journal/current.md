@@ -119,3 +119,6 @@ Morning 105-106. Cow walk never left; night held at tables. Gave a stick to Mary
 - 03:22 act: {"say":"Earhart, morning 1192, health 20, hunger 20. I have no food to spare. I'm staying at the chests in sight. Galileo and Anne first. Watney, I still need a second viewer for -914,71,-3029."}
 - 03:30 act: {"say":"Earhart, midday 1193, hunger 20, no food. Galileo, if your shelter by the chests is closed and checked, I'd like to share it for the night. I have 2 dirt you can use."}
 - 03:34 act: {"say":"Earhart, morning 1194, hunger 20, not sheltered. Galileo, I hold 2 dirt. Name a gap cell that two viewers have checked and I'll place one from in sight. I'm not entering until you say sealed."
+- 04:15 act: {"say":"Amelia, midday 1195. Health 20, hunger 20, wooden sword, 2 leather, 2 dirt, no planks. I hold at the chests in sight and place nothing until a cell is checked by two of you.","intent":{"goal":
+- 04:19 act: {"say":"Amelia, afternoon 1195. Health 20, hunger 20, sword and 2 leather. I have no planks for a cell before dusk. Anyone alone in my sight with 2 spare planks, name yourself and I will check a cell 
+- 04:27 act: {"say":"Amelia, midday 1196. Alive, health and hunger 20, unsheltered, no planks. Leif, if your wood run goes out in daylight in sight, I will walk with you and carry logs."}
